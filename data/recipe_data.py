@@ -1,0 +1,5 @@
+RECIPE_NAME = "Фазан"
+INGREDIENT = "фа"
+WEIGHT = "1000"
+TIME_FOR_READY = 10
+RECIPE_DESCRIPTION = "Очень вкусный фазан"
